@@ -1,0 +1,39 @@
+body{
+    position: center;
+    background-color: darkgray;
+    text-align: center;
+}
+form{
+font-weight: 400;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(222, 135, 135);
+text-align: center;
+position: relative;
+padding: 20px;
+margin: auto;
+border-style: solid;
+font-size: 30px;
+border-radius: 50px;
+width:50%;
+height:800px;
+background-image:url('/pix/samples/bg2.png')
+}
+h1{
+    color: rgba(255, 255, 255, 0.589);
+    font-size: larger;
+    font-family: monospace;
+    text-align: center;
+    margin: 20px;
+font-size: 50px;
+}
+.lala{
+    width: 400px;
+height: 50px;
+border-radius: 10px;
+}
+
+.demo_wrap {
+    position: relative;
+    background: #5C97FF;
+    overflow: hidden;
+}
